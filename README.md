@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @satwikshirsat04
-- 👀 I’m interested in Artificaial Intelligence and Data Science
-- 🌱 I’m currently learning AI 
-- 📫 How to reach me ...
+💻 AI & Machine Learning Enthusiast | B.Tech in AI & Data Science
+🚀 Passionate about building impactful and innovative projects to solve real-world problems
+
+🛠️ Skills
+✔️Programming Languages: Python, C++, MYSQL
+✔️AI Tools & Libraries: TensorFlow, PyTorch, OpenCV, Scikit Learn
+✔️Visualization Tools: Power BI, Tableau
+✔️Web Technologies: HTML, CSS, Bootstrap, JavaScript, Node.JS
+
+🌟 Let’s Build Together!
+💬 Connect or collaborate on exciting AI/ML and data-driven projects!
 
 
-<!---
-satwikshirsat04/satwikshirsat04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
