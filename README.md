@@ -7,7 +7,7 @@
 ✔️Visualization Tools: Power BI, Tableau
 ✔️Web Technologies: HTML, CSS, Bootstrap, JavaScript, Node.JS
 
-🌟 Let’s Build Together!
+🌟 Let’s Build Together
 💬 Connect or collaborate on exciting AI/ML and data-driven projects!
 
 
