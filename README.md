@@ -6,8 +6,7 @@
 - 👨‍💻 Experienced in backend development, AI & ML, and web technologies  
 - 🤖 I'm currently exploring Agentic AI and LLMs like BERT, GPT, and Ollama  
 - 📊 I love building real-time AI-powered projects and dashboards  
-- 🌐 Portfolio: [News Buddy](https://newsbuddy.vercel.app)  
-- 📄 My Resume - [Resume Link](#)
+
 
 ---
 
