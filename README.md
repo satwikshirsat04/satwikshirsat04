@@ -34,13 +34,20 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Deep Learning:
+### Deep Learning & NLP:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-3C3C3C?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Encoders](https://img.shields.io/badge/Encoders-6A1B9A?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00C853?style=for-the-badge)
+
+
 
 ### Web Development:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
