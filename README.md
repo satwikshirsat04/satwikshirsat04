@@ -13,7 +13,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/satwikshirsat04)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/satwikshirsat04)
+[![Huggingface](https://img.shields.io/badge/HuggingFace-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/satwikshirsat04)
 [![Email](https://img.shields.io/badge/Email-darkred?style=for-the-badge&logo=gmail)](mailto:satwikshirsat04@gmail.com)
 
 ---
