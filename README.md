@@ -22,6 +22,7 @@
 
 ![Satwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satwikshirsat04&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satwikshirsat04&layout=compact&theme=tokyonight)
+![Top Languages](https://www.tengokusolutions.com/)
 
 ---
 
